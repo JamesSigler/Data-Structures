@@ -1,0 +1,21 @@
+﻿  Adder.cpp
+  main.cpp
+c:\users\sigle\documents\visual studio 2017\projects\math_operation\math_operation\adder.h(1): error C2011: 'adder': 'class' type redefinition
+  c:\users\sigle\documents\visual studio 2017\projects\math_operation\math_operation\adder.h(1): note: see declaration of 'adder'
+c:\users\sigle\documents\visual studio 2017\projects\math_operation\math_operation\adder.cpp(6): error C2027: use of undefined type 'adder'
+  c:\users\sigle\documents\visual studio 2017\projects\math_operation\math_operation\adder.h(1): note: see declaration of 'adder'
+c:\users\sigle\documents\visual studio 2017\projects\math_operation\math_operation\adder.cpp(6): error C2227: left of '->sum' must point to class/struct/union/generic type
+c:\users\sigle\documents\visual studio 2017\projects\math_operation\math_operation\adder.cpp(10): error C2027: use of undefined type 'adder'
+  c:\users\sigle\documents\visual studio 2017\projects\math_operation\math_operation\adder.h(1): note: see declaration of 'adder'
+c:\users\sigle\documents\visual studio 2017\projects\math_operation\math_operation\adder.cpp(10): error C2227: left of '->difference' must point to class/struct/union/generic type
+c:\users\sigle\documents\visual studio 2017\projects\math_operation\math_operation\adder.cpp(14): error C2027: use of undefined type 'adder'
+  c:\users\sigle\documents\visual studio 2017\projects\math_operation\math_operation\adder.h(1): note: see declaration of 'adder'
+c:\users\sigle\documents\visual studio 2017\projects\math_operation\math_operation\adder.cpp(14): error C2227: left of '->product' must point to class/struct/union/generic type
+c:\users\sigle\documents\visual studio 2017\projects\math_operation\math_operation\adder.cpp(18): error C2027: use of undefined type 'adder'
+  c:\users\sigle\documents\visual studio 2017\projects\math_operation\math_operation\adder.h(1): note: see declaration of 'adder'
+c:\users\sigle\documents\visual studio 2017\projects\math_operation\math_operation\adder.cpp(18): error C2227: left of '->dividen' must point to class/struct/union/generic type
+  Generating Code...
+c:\users\sigle\documents\visual studio 2017\projects\math_operation\math_operation\adder.cpp(11): error C4716: 'subtract': must return a value
+c:\users\sigle\documents\visual studio 2017\projects\math_operation\math_operation\adder.cpp(15): error C4716: 'multiply': must return a value
+c:\users\sigle\documents\visual studio 2017\projects\math_operation\math_operation\adder.cpp(7): error C4716: 'add': must return a value
+c:\users\sigle\documents\visual studio 2017\projects\math_operation\math_operation\adder.cpp(19): error C4716: 'divide': must return a value
